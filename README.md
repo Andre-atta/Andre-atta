@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 - 🎓 ICT student at [Ca' Foscari University of Venice](https://www.unive.it)
 - 🔭 Currently working on: Android app development.
-- 🌱 Learning: C++, Java and SQL.
+- 🌱 Learning: Dart and Flutter.
 - ⚡ Fun fact: I'm also do calisthenics... 
